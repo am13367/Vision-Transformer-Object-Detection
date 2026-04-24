@@ -1,0 +1,76 @@
+-------------------------------------------------
+EVALUATING: ALL PARAMS (BEST MODEL)
+Using device: cuda
+Evaluator found 257 samples.
+Applying freeze mode: all
+Loading checkpoint: checkpoints/all_params/best_model.pth
+Starting evaluation...
+
+========================================
+EVAL RESULTS (Score Thresh: 0.1)
+========================================
+True Positives  : 375
+False Positives : 2036
+False Negatives : 105
+--------------------
+Precision       : 0.1555
+Recall          : 0.7812
+F1 Score        : 0.2594
+========================================
+-------------------------------------------------
+EVALUATING: CLASS HEAD ONLY
+Using device: cuda
+Evaluator found 257 samples.
+Applying freeze mode: all
+Loading checkpoint: checkpoints/class_head_only/best_model.pth
+Starting evaluation...
+
+========================================
+EVAL RESULTS (Score Thresh: 0.1)
+========================================
+True Positives  : 341
+False Positives : 8325
+False Negatives : 139
+--------------------
+Precision       : 0.0393
+Recall          : 0.7104
+F1 Score        : 0.0746
+========================================
+-------------------------------------------------
+EVALUATING: TRANSFORMER ONLY
+Using device: cuda
+Evaluator found 257 samples.
+Applying freeze mode: all
+Loading checkpoint: checkpoints/transformer_only/best_model.pth
+Starting evaluation...
+
+========================================
+EVAL RESULTS (Score Thresh: 0.1)
+========================================
+True Positives  : 401
+False Positives : 5078
+False Negatives : 79
+--------------------
+Precision       : 0.0732
+Recall          : 0.8354
+F1 Score        : 0.1346
+========================================
+-------------------------------------------------
+EVALUATING: BACKBONE ONLY
+Using device: cuda
+Evaluator found 257 samples.
+Applying freeze mode: all
+Loading checkpoint: checkpoints/backbone_only/best_model.pth
+Starting evaluation...
+
+========================================
+EVAL RESULTS (Score Thresh: 0.1)
+========================================
+True Positives  : 210
+False Positives : 25490
+False Negatives : 270
+--------------------
+Precision       : 0.0082
+Recall          : 0.4375
+F1 Score        : 0.0160
+========================================

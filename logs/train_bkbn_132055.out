@@ -1,0 +1,119 @@
+Training on: cuda
+Loading dataset...
+Train: 206, Val: 51
+Applying freeze mode: backbone_only
+Epoch 1/100 | Train Loss: 3.5635 | Val Loss: 3.4882 | Prec: 0.003 | Rec: 0.146 | TP/FP/FN: 13/5087/76 | Time: 20.9s
+  --> Saved Best Model (Loss: 3.4882)
+Epoch 2/100 | Train Loss: 3.5475 | Val Loss: 3.3222 | Prec: 0.003 | Rec: 0.146 | TP/FP/FN: 13/5087/76 | Time: 16.4s
+  --> Saved Best Model (Loss: 3.3222)
+Epoch 3/100 | Train Loss: 3.4877 | Val Loss: 3.5355 | Prec: 0.001 | Rec: 0.067 | TP/FP/FN: 6/5094/83 | Time: 16.8s
+Epoch 4/100 | Train Loss: 3.7172 | Val Loss: 3.9929 | Prec: 0.001 | Rec: 0.079 | TP/FP/FN: 7/5093/82 | Time: 16.9s
+Epoch 5/100 | Train Loss: 3.8248 | Val Loss: 3.3126 | Prec: 0.005 | Rec: 0.292 | TP/FP/FN: 26/5074/63 | Time: 16.5s
+  --> Saved Best Model (Loss: 3.3126)
+Epoch 6/100 | Train Loss: 3.5077 | Val Loss: 3.4068 | Prec: 0.004 | Rec: 0.236 | TP/FP/FN: 21/5079/68 | Time: 16.2s
+Epoch 7/100 | Train Loss: 3.4782 | Val Loss: 3.3316 | Prec: 0.005 | Rec: 0.281 | TP/FP/FN: 25/5075/64 | Time: 16.2s
+Epoch 8/100 | Train Loss: 3.4458 | Val Loss: 3.1890 | Prec: 0.006 | Rec: 0.348 | TP/FP/FN: 31/5069/58 | Time: 16.5s
+  --> Saved Best Model (Loss: 3.1890)
+Epoch 9/100 | Train Loss: 3.4767 | Val Loss: 3.1999 | Prec: 0.006 | Rec: 0.371 | TP/FP/FN: 33/5067/56 | Time: 16.4s
+Epoch 10/100 | Train Loss: 3.2718 | Val Loss: 3.1597 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.3s
+  --> Saved Best Model (Loss: 3.1597)
+Epoch 11/100 | Train Loss: 3.2695 | Val Loss: 3.1962 | Prec: 0.005 | Rec: 0.315 | TP/FP/FN: 28/5072/61 | Time: 16.4s
+Epoch 12/100 | Train Loss: 3.3241 | Val Loss: 3.2427 | Prec: 0.005 | Rec: 0.270 | TP/FP/FN: 24/5076/65 | Time: 16.1s
+Epoch 13/100 | Train Loss: 3.4977 | Val Loss: 3.1695 | Prec: 0.006 | Rec: 0.360 | TP/FP/FN: 32/5068/57 | Time: 16.1s
+Epoch 14/100 | Train Loss: 3.2251 | Val Loss: 3.1086 | Prec: 0.006 | Rec: 0.326 | TP/FP/FN: 29/5071/60 | Time: 16.3s
+  --> Saved Best Model (Loss: 3.1086)
+Epoch 15/100 | Train Loss: 3.4979 | Val Loss: 3.1864 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.3s
+Epoch 16/100 | Train Loss: 3.2620 | Val Loss: 3.1398 | Prec: 0.007 | Rec: 0.393 | TP/FP/FN: 35/5065/54 | Time: 16.6s
+Epoch 17/100 | Train Loss: 4.0928 | Val Loss: 3.7026 | Prec: 0.002 | Rec: 0.124 | TP/FP/FN: 11/5089/78 | Time: 16.2s
+Epoch 18/100 | Train Loss: 3.4794 | Val Loss: 3.3359 | Prec: 0.003 | Rec: 0.146 | TP/FP/FN: 13/5087/76 | Time: 16.4s
+Epoch 19/100 | Train Loss: 3.3913 | Val Loss: 3.2190 | Prec: 0.004 | Rec: 0.225 | TP/FP/FN: 20/5080/69 | Time: 16.3s
+Epoch 20/100 | Train Loss: 3.2447 | Val Loss: 3.2219 | Prec: 0.003 | Rec: 0.191 | TP/FP/FN: 17/5083/72 | Time: 16.2s
+Epoch 21/100 | Train Loss: 3.2889 | Val Loss: 3.1166 | Prec: 0.004 | Rec: 0.213 | TP/FP/FN: 19/5081/70 | Time: 16.3s
+Epoch 22/100 | Train Loss: 3.2447 | Val Loss: 3.1914 | Prec: 0.005 | Rec: 0.281 | TP/FP/FN: 25/5075/64 | Time: 16.3s
+Epoch 23/100 | Train Loss: 3.1451 | Val Loss: 3.1550 | Prec: 0.005 | Rec: 0.315 | TP/FP/FN: 28/5072/61 | Time: 16.3s
+Epoch 24/100 | Train Loss: 3.1615 | Val Loss: 3.1992 | Prec: 0.005 | Rec: 0.281 | TP/FP/FN: 25/5075/64 | Time: 16.3s
+Epoch 25/100 | Train Loss: 3.1720 | Val Loss: 3.0930 | Prec: 0.005 | Rec: 0.303 | TP/FP/FN: 27/5073/62 | Time: 16.4s
+  --> Saved Best Model (Loss: 3.0930)
+Epoch 26/100 | Train Loss: 4.2298 | Val Loss: 5.2847 | Prec: 0.001 | Rec: 0.079 | TP/FP/FN: 7/5093/82 | Time: 16.3s
+Epoch 27/100 | Train Loss: 4.4221 | Val Loss: 3.2897 | Prec: 0.005 | Rec: 0.292 | TP/FP/FN: 26/5074/63 | Time: 16.3s
+Epoch 28/100 | Train Loss: 3.3812 | Val Loss: 3.1525 | Prec: 0.006 | Rec: 0.371 | TP/FP/FN: 33/5067/56 | Time: 16.4s
+Epoch 29/100 | Train Loss: 3.2884 | Val Loss: 3.1420 | Prec: 0.005 | Rec: 0.303 | TP/FP/FN: 27/5073/62 | Time: 16.7s
+Epoch 30/100 | Train Loss: 3.1598 | Val Loss: 3.2421 | Prec: 0.006 | Rec: 0.348 | TP/FP/FN: 31/5069/58 | Time: 16.7s
+Epoch 31/100 | Train Loss: 3.2248 | Val Loss: 3.0576 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.2s
+  --> Saved Best Model (Loss: 3.0576)
+Epoch 32/100 | Train Loss: 3.2946 | Val Loss: 3.1412 | Prec: 0.006 | Rec: 0.326 | TP/FP/FN: 29/5071/60 | Time: 16.4s
+Epoch 33/100 | Train Loss: 3.2534 | Val Loss: 3.1916 | Prec: 0.006 | Rec: 0.360 | TP/FP/FN: 32/5068/57 | Time: 16.3s
+Epoch 34/100 | Train Loss: 3.4541 | Val Loss: 3.4898 | Prec: 0.004 | Rec: 0.225 | TP/FP/FN: 20/5080/69 | Time: 16.3s
+Epoch 35/100 | Train Loss: 3.6904 | Val Loss: 3.3517 | Prec: 0.005 | Rec: 0.315 | TP/FP/FN: 28/5072/61 | Time: 16.3s
+Epoch 36/100 | Train Loss: 3.4202 | Val Loss: 3.0893 | Prec: 0.006 | Rec: 0.348 | TP/FP/FN: 31/5069/58 | Time: 16.2s
+Epoch 37/100 | Train Loss: 3.3540 | Val Loss: 3.1729 | Prec: 0.005 | Rec: 0.315 | TP/FP/FN: 28/5072/61 | Time: 16.2s
+Epoch 38/100 | Train Loss: 3.3871 | Val Loss: 3.1981 | Prec: 0.005 | Rec: 0.303 | TP/FP/FN: 27/5073/62 | Time: 16.7s
+Epoch 39/100 | Train Loss: 3.2538 | Val Loss: 3.1456 | Prec: 0.006 | Rec: 0.371 | TP/FP/FN: 33/5067/56 | Time: 16.2s
+Epoch 40/100 | Train Loss: 3.3992 | Val Loss: 3.3118 | Prec: 0.005 | Rec: 0.270 | TP/FP/FN: 24/5076/65 | Time: 16.6s
+Epoch 41/100 | Train Loss: 3.4713 | Val Loss: 3.1789 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.3s
+Epoch 42/100 | Train Loss: 3.3365 | Val Loss: 3.1734 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.4s
+Epoch 43/100 | Train Loss: 3.3220 | Val Loss: 3.6520 | Prec: 0.006 | Rec: 0.371 | TP/FP/FN: 33/5067/56 | Time: 16.2s
+Epoch 44/100 | Train Loss: 3.9348 | Val Loss: 3.5423 | Prec: 0.005 | Rec: 0.303 | TP/FP/FN: 27/5073/62 | Time: 16.3s
+Epoch 45/100 | Train Loss: 3.4292 | Val Loss: 3.3040 | Prec: 0.006 | Rec: 0.360 | TP/FP/FN: 32/5068/57 | Time: 16.5s
+Epoch 46/100 | Train Loss: 3.2760 | Val Loss: 3.2328 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.4s
+Epoch 47/100 | Train Loss: 3.2679 | Val Loss: 3.2738 | Prec: 0.005 | Rec: 0.315 | TP/FP/FN: 28/5072/61 | Time: 16.3s
+Epoch 48/100 | Train Loss: 3.2959 | Val Loss: 3.2116 | Prec: 0.006 | Rec: 0.360 | TP/FP/FN: 32/5068/57 | Time: 16.3s
+Epoch 49/100 | Train Loss: 3.2635 | Val Loss: 3.1350 | Prec: 0.007 | Rec: 0.382 | TP/FP/FN: 34/5066/55 | Time: 16.3s
+Epoch 50/100 | Train Loss: 3.2340 | Val Loss: 3.1427 | Prec: 0.006 | Rec: 0.360 | TP/FP/FN: 32/5068/57 | Time: 16.3s
+Epoch 51/100 | Train Loss: 3.3700 | Val Loss: 3.2038 | Prec: 0.007 | Rec: 0.393 | TP/FP/FN: 35/5065/54 | Time: 16.4s
+Epoch 52/100 | Train Loss: 3.4329 | Val Loss: 3.2324 | Prec: 0.006 | Rec: 0.326 | TP/FP/FN: 29/5071/60 | Time: 16.1s
+Epoch 53/100 | Train Loss: 3.3252 | Val Loss: 3.2594 | Prec: 0.005 | Rec: 0.258 | TP/FP/FN: 23/5077/66 | Time: 16.4s
+Epoch 54/100 | Train Loss: 3.2903 | Val Loss: 3.1567 | Prec: 0.005 | Rec: 0.303 | TP/FP/FN: 27/5073/62 | Time: 16.5s
+Epoch 55/100 | Train Loss: 3.3010 | Val Loss: 3.3301 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.5s
+Epoch 56/100 | Train Loss: 3.4376 | Val Loss: 3.1772 | Prec: 0.005 | Rec: 0.281 | TP/FP/FN: 25/5075/64 | Time: 16.4s
+Epoch 57/100 | Train Loss: 3.3438 | Val Loss: 5.0008 | Prec: 0.001 | Rec: 0.034 | TP/FP/FN: 3/5097/86 | Time: 16.2s
+Epoch 58/100 | Train Loss: 3.6296 | Val Loss: 3.6153 | Prec: 0.005 | Rec: 0.270 | TP/FP/FN: 24/5076/65 | Time: 16.2s
+Epoch 59/100 | Train Loss: 3.4594 | Val Loss: 3.2175 | Prec: 0.005 | Rec: 0.315 | TP/FP/FN: 28/5072/61 | Time: 16.4s
+Epoch 60/100 | Train Loss: 3.2667 | Val Loss: 3.0325 | Prec: 0.005 | Rec: 0.303 | TP/FP/FN: 27/5073/62 | Time: 16.3s
+  --> Saved Best Model (Loss: 3.0325)
+Epoch 61/100 | Train Loss: 3.2600 | Val Loss: 3.0257 | Prec: 0.006 | Rec: 0.348 | TP/FP/FN: 31/5069/58 | Time: 16.4s
+  --> Saved Best Model (Loss: 3.0257)
+Epoch 62/100 | Train Loss: 3.2181 | Val Loss: 3.0827 | Prec: 0.006 | Rec: 0.371 | TP/FP/FN: 33/5067/56 | Time: 16.4s
+Epoch 63/100 | Train Loss: 3.2120 | Val Loss: 3.0360 | Prec: 0.005 | Rec: 0.315 | TP/FP/FN: 28/5072/61 | Time: 16.3s
+Epoch 64/100 | Train Loss: 3.2213 | Val Loss: 3.0275 | Prec: 0.007 | Rec: 0.404 | TP/FP/FN: 36/5064/53 | Time: 16.4s
+Epoch 65/100 | Train Loss: 3.4466 | Val Loss: 3.3496 | Prec: 0.005 | Rec: 0.292 | TP/FP/FN: 26/5074/63 | Time: 16.4s
+Epoch 66/100 | Train Loss: 3.4358 | Val Loss: 3.1809 | Prec: 0.006 | Rec: 0.360 | TP/FP/FN: 32/5068/57 | Time: 16.3s
+Epoch 67/100 | Train Loss: 3.2615 | Val Loss: 3.1810 | Prec: 0.007 | Rec: 0.393 | TP/FP/FN: 35/5065/54 | Time: 16.1s
+Epoch 68/100 | Train Loss: 3.3540 | Val Loss: 3.2577 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.3s
+Epoch 69/100 | Train Loss: 3.8878 | Val Loss: 3.6606 | Prec: 0.004 | Rec: 0.236 | TP/FP/FN: 21/5079/68 | Time: 16.4s
+Epoch 70/100 | Train Loss: 3.5827 | Val Loss: 3.0921 | Prec: 0.007 | Rec: 0.393 | TP/FP/FN: 35/5065/54 | Time: 16.2s
+Epoch 71/100 | Train Loss: 3.1935 | Val Loss: 3.0442 | Prec: 0.007 | Rec: 0.416 | TP/FP/FN: 37/5063/52 | Time: 16.3s
+Epoch 72/100 | Train Loss: 3.0941 | Val Loss: 3.0179 | Prec: 0.007 | Rec: 0.404 | TP/FP/FN: 36/5064/53 | Time: 16.3s
+  --> Saved Best Model (Loss: 3.0179)
+Epoch 73/100 | Train Loss: 3.1124 | Val Loss: 3.0723 | Prec: 0.006 | Rec: 0.360 | TP/FP/FN: 32/5068/57 | Time: 16.3s
+Epoch 74/100 | Train Loss: 3.1498 | Val Loss: 3.0409 | Prec: 0.006 | Rec: 0.360 | TP/FP/FN: 32/5068/57 | Time: 16.3s
+Epoch 75/100 | Train Loss: 3.1037 | Val Loss: 3.0396 | Prec: 0.006 | Rec: 0.326 | TP/FP/FN: 29/5071/60 | Time: 16.3s
+Epoch 76/100 | Train Loss: 3.0768 | Val Loss: 3.0286 | Prec: 0.005 | Rec: 0.303 | TP/FP/FN: 27/5073/62 | Time: 16.4s
+Epoch 77/100 | Train Loss: 2.9872 | Val Loss: 2.9264 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.4s
+  --> Saved Best Model (Loss: 2.9264)
+Epoch 78/100 | Train Loss: 3.0173 | Val Loss: 2.9312 | Prec: 0.007 | Rec: 0.393 | TP/FP/FN: 35/5065/54 | Time: 16.3s
+Epoch 79/100 | Train Loss: 3.0605 | Val Loss: 3.1676 | Prec: 0.007 | Rec: 0.393 | TP/FP/FN: 35/5065/54 | Time: 16.5s
+Epoch 80/100 | Train Loss: 3.1725 | Val Loss: 3.1507 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.5s
+Epoch 81/100 | Train Loss: 3.0769 | Val Loss: 2.9923 | Prec: 0.006 | Rec: 0.371 | TP/FP/FN: 33/5067/56 | Time: 16.4s
+Epoch 82/100 | Train Loss: 2.9915 | Val Loss: 2.9434 | Prec: 0.007 | Rec: 0.404 | TP/FP/FN: 36/5064/53 | Time: 16.4s
+Epoch 83/100 | Train Loss: 3.0268 | Val Loss: 3.0269 | Prec: 0.007 | Rec: 0.382 | TP/FP/FN: 34/5066/55 | Time: 16.1s
+Epoch 84/100 | Train Loss: 2.9617 | Val Loss: 2.9276 | Prec: 0.007 | Rec: 0.393 | TP/FP/FN: 35/5065/54 | Time: 16.5s
+Epoch 85/100 | Train Loss: 2.9783 | Val Loss: 2.9183 | Prec: 0.006 | Rec: 0.326 | TP/FP/FN: 29/5071/60 | Time: 16.2s
+  --> Saved Best Model (Loss: 2.9183)
+Epoch 86/100 | Train Loss: 2.9576 | Val Loss: 3.0444 | Prec: 0.006 | Rec: 0.348 | TP/FP/FN: 31/5069/58 | Time: 16.2s
+Epoch 87/100 | Train Loss: 2.9773 | Val Loss: 3.0040 | Prec: 0.007 | Rec: 0.393 | TP/FP/FN: 35/5065/54 | Time: 16.2s
+Epoch 88/100 | Train Loss: 2.9648 | Val Loss: 2.9004 | Prec: 0.006 | Rec: 0.371 | TP/FP/FN: 33/5067/56 | Time: 16.2s
+  --> Saved Best Model (Loss: 2.9004)
+Epoch 89/100 | Train Loss: 4.1408 | Val Loss: 9.5548 | Prec: 0.000 | Rec: 0.000 | TP/FP/FN: 0/5100/89 | Time: 16.3s
+Epoch 90/100 | Train Loss: 5.4470 | Val Loss: 3.4417 | Prec: 0.004 | Rec: 0.247 | TP/FP/FN: 22/5078/67 | Time: 16.4s
+Epoch 91/100 | Train Loss: 3.3674 | Val Loss: 3.0654 | Prec: 0.004 | Rec: 0.213 | TP/FP/FN: 19/5081/70 | Time: 16.3s
+Epoch 92/100 | Train Loss: 3.1657 | Val Loss: 3.1033 | Prec: 0.004 | Rec: 0.236 | TP/FP/FN: 21/5079/68 | Time: 16.4s
+Epoch 93/100 | Train Loss: 3.1460 | Val Loss: 3.2389 | Prec: 0.004 | Rec: 0.213 | TP/FP/FN: 19/5081/70 | Time: 16.3s
+Epoch 94/100 | Train Loss: 3.5943 | Val Loss: 3.5942 | Prec: 0.005 | Rec: 0.258 | TP/FP/FN: 23/5077/66 | Time: 16.4s
+Epoch 95/100 | Train Loss: 3.4673 | Val Loss: 3.2928 | Prec: 0.005 | Rec: 0.315 | TP/FP/FN: 28/5072/61 | Time: 16.3s
+Epoch 96/100 | Train Loss: 3.2782 | Val Loss: 3.2049 | Prec: 0.006 | Rec: 0.326 | TP/FP/FN: 29/5071/60 | Time: 16.3s
+Epoch 97/100 | Train Loss: 3.2588 | Val Loss: 3.2183 | Prec: 0.007 | Rec: 0.382 | TP/FP/FN: 34/5066/55 | Time: 16.2s
+Epoch 98/100 | Train Loss: 3.2299 | Val Loss: 3.2033 | Prec: 0.006 | Rec: 0.337 | TP/FP/FN: 30/5070/59 | Time: 16.2s
+Epoch 99/100 | Train Loss: 3.1755 | Val Loss: 3.1039 | Prec: 0.006 | Rec: 0.360 | TP/FP/FN: 32/5068/57 | Time: 16.3s
+Epoch 100/100 | Train Loss: 3.2270 | Val Loss: 3.2246 | Prec: 0.005 | Rec: 0.303 | TP/FP/FN: 27/5073/62 | Time: 16.2s
+Training Complete.

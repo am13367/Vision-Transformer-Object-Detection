@@ -1,0 +1,22 @@
+Training on: cuda
+Loading dataset...
+Train: 206, Val: 51
+Applying freeze mode: class_head_only
+Epoch 1/10 | Train Loss: 3.3392 | Val Loss: 2.6867 | Prec: 0.010 | Rec: 0.472 | TP/FP/FN: 42/4134/47 | Time: 17.9s
+  --> Saved Best Model (Loss: 2.6867)
+Epoch 2/10 | Train Loss: 2.6461 | Val Loss: 2.6744 | Prec: 0.016 | Rec: 0.326 | TP/FP/FN: 29/1773/60 | Time: 13.1s
+  --> Saved Best Model (Loss: 2.6744)
+Epoch 3/10 | Train Loss: 2.7114 | Val Loss: 2.3457 | Prec: 0.032 | Rec: 0.472 | TP/FP/FN: 42/1264/47 | Time: 13.3s
+  --> Saved Best Model (Loss: 2.3457)
+Epoch 4/10 | Train Loss: 2.4219 | Val Loss: 2.2913 | Prec: 0.034 | Rec: 0.483 | TP/FP/FN: 43/1208/46 | Time: 13.4s
+  --> Saved Best Model (Loss: 2.2913)
+Epoch 5/10 | Train Loss: 2.3146 | Val Loss: 2.1975 | Prec: 0.032 | Rec: 0.528 | TP/FP/FN: 47/1426/42 | Time: 13.3s
+  --> Saved Best Model (Loss: 2.1975)
+Epoch 6/10 | Train Loss: 2.2631 | Val Loss: 2.1564 | Prec: 0.037 | Rec: 0.618 | TP/FP/FN: 55/1438/34 | Time: 13.1s
+  --> Saved Best Model (Loss: 2.1564)
+Epoch 7/10 | Train Loss: 2.3545 | Val Loss: 2.0392 | Prec: 0.038 | Rec: 0.663 | TP/FP/FN: 59/1502/30 | Time: 13.4s
+  --> Saved Best Model (Loss: 2.0392)
+Epoch 8/10 | Train Loss: 2.3231 | Val Loss: 2.1040 | Prec: 0.038 | Rec: 0.640 | TP/FP/FN: 57/1439/32 | Time: 13.2s
+Epoch 9/10 | Train Loss: 2.2384 | Val Loss: 2.2236 | Prec: 0.040 | Rec: 0.663 | TP/FP/FN: 59/1416/30 | Time: 13.3s
+Epoch 10/10 | Train Loss: 2.3927 | Val Loss: 2.1877 | Prec: 0.043 | Rec: 0.652 | TP/FP/FN: 58/1279/31 | Time: 13.3s
+Training Complete.
